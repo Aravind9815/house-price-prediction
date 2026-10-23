@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🏡 House Price Prediction using Machine Learning
 
@@ -137,3 +138,6 @@ For queries or collaborations, reach out on GitHub or comment on the Medium arti
 
 ```
 ```
+=======
+# house-price-prediction
+>>>>>>> ac7600b613e05bbad8533baaecf2909813f33051
